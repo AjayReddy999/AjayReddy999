@@ -1,303 +1,289 @@
-<!-- 
-███╗   ██╗███████╗████████╗██╗    ██╗ ██████╗ ██████╗ ██╗  ██╗    ███████╗███╗   ██╗ ██████╗ ██╗███╗   ██╗███████╗███████╗██████╗ 
-████╗  ██║██╔════╝╚══██╔══╝██║    ██║██╔═══██╗██╔══██╗██║ ██╔╝    ██╔════╝████╗  ██║██╔════╝ ██║████╗  ██║██╔════╝██╔════╝██╔══██╗
-██╔██╗ ██║█████╗     ██║   ██║ █╗ ██║██║   ██║██████╔╝█████╔╝     █████╗  ██╔██╗ ██║██║  ███╗██║██╔██╗ ██║█████╗  █████╗  ██████╔╝
-██║╚██╗██║██╔══╝     ██║   ██║███╗██║██║   ██║██╔══██╗██╔═██╗     ██╔══╝  ██║╚██╗██║██║   ██║██║██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██╗
-██║ ╚████║███████╗   ██║   ╚███╔███╔╝╚██████╔╝██║  ██║██║  ██╗    ███████╗██║ ╚████║╚██████╔╝██║██║ ╚████║███████╗███████╗██║  ██║
-╚═╝  ╚═══╝╚══════╝   ╚═╝    ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
--->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:667eea&height=220&section=header&text=AJAYKUMAR%20REDDY%20DEVARAPALLI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=◉%20Network%20Infrastructure%20Engineer%20◉%20Hybrid%20Cloud%20Networking%20◉%20Zero%20Trust%20Security%20◉&descSize=16&descAlignY=55" />
-</div>
-
 <div align="center">
 
-```bash
-┌─[ajaykumar@infrastructure]─[~/career-achievements]
-└──╼ $ whoami
-Network Infrastructure Engineer | Hybrid Cloud Specialist | Security & Automation Architect
+<img src="assets/header.png" alt="Ajaykumar Reddy Devarapalli" width="100%" />
 
-┌─[ajaykumar@infrastructure]─[~/professional-stats]
-└──╼ $ ls -la career-metrics/
-drwxr-xr-x  4+ years of enterprise networking experience
-drwxr-xr-x  5,000+ users supported in production environments
--rw-r--r--  35% automation efficiency improvement
--rw-r--r--  30% MTTR reduction through observability
--rw-r--r--  98% SLA adherence across Tier 2/3 support
--rw-r--r--  30+ network devices and 15+ segments managed
--rw-r--r--  22% routing convergence time optimization
--rw-r--r--  45% manual configuration reduction via automation
--rw-r--r--  2,000+ devices secured with Zero Trust controls
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajaykumar-networkengineer/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dajaykumarnetworkeng@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://applywizz-ajaykumarreddydevarapalli-26257.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AjayReddy999)
+[![Phone](https://img.shields.io/badge/Phone-469--268--2398-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+14692682398)
 
-</div>
-
-<table align="center">
-<tr>
-<td><img src="https://img.shields.io/badge/📱_+1_(469)_268_2398-FF6B6B?style=for-the-badge&labelColor=2C3E50&color=E74C3C"/></td>
-<td><img src="https://img.shields.io/badge/📧_dajaykumarnetworkeng@gmail.com-4ECDC4?style=for-the-badge&labelColor=2C3E50&color=1ABC9C"/></td>
-<td><img src="https://img.shields.io/badge/📍_Texas,_USA-F39C12?style=for-the-badge&labelColor=2C3E50&color=E67E22"/></td>
-</tr>
-</table>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ajaykumar--networkengineer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajaykumar-networkengineer/)
-[![GitHub](https://img.shields.io/badge/GitHub-AjayReddy999-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AjayReddy999)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://applywizz-ajaykumarreddydevarapalli-26257.vercel.app/)
-[![CCNA](https://img.shields.io/badge/Cisco-CCNA_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.linkedin.com/in/ajaykumar-networkengineer/)
-
-</div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=AjayReddy999&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
 
-## 🎯 Professional Identity
+## 🎯 Professional Summary
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-```typescript
-class NetworkEngineer implements InfrastructureExpert {
-  private identity = {
-    name: "Ajaykumar Reddy Devarapalli",
-    role: "Network Infrastructure Engineer",
-    location: "Texas, USA",
-    certification: "CCNA"
-  };
+**Network Infrastructure Engineer** | **Hybrid Cloud Networking** | **Network Security & Automation**
 
-  private expertise: TechStack = {
-    networking: [
-      "BGP", "OSPF", "MPLS", "SD-WAN",
-      "VLANs", "STP", "EtherChannel",
-      "NAT", "QoS", "IPv4/IPv6"
-    ],
-    cloudNetworking: [
-      "AWS VPC", "Transit Gateway",
-      "Azure Virtual Networks", "ExpressRoute",
-      "Site-to-Site VPN", "Hybrid Connectivity"
-    ],
-    security: [
-      "Zero Trust", "Conditional Access",
-      "IPSec/SSL VPN", "Network Segmentation",
-      "RADIUS/TACACS+", "MFA", "RBAC"
-    ]
-  };
-}
-```
+</div>
 
-</td>
-<td width="50%" valign="top">
+Network Infrastructure Engineer with **4+ years** across enterprise LAN/WAN, hybrid cloud networking (**AWS/Azure**), network security, systems and identity infrastructure, and automation. Currently at **PayPal**, validating SD-WAN, firewall, and hybrid-cloud changes with network and security teams, enforcing Zero Trust access, and troubleshooting DNS, DHCP, VPN, and authentication issues across hybrid environments. Previously built and operated multi-site **Cisco and Fortinet** networks for an energy-sector client. Strong in BGP/OSPF, secure connectivity, observability, and automation with Python, Ansible, Terraform, and Netmiko/NAPALM. **M.S. Computer Science; CCNA.**
 
-```python
-infrastructure_achievements = {
-    'experience_years': 4,
-    'production_users_supported': '5000+',
-    'network_devices_managed': 30,
-    'network_segments_deployed': 15,
-    'hybrid_cloud_paths': 10,
-    'sla_adherence': '98%',
-    'automation_efficiency': '+35%',
-    'mttr_reduction': '-30%',
-    'routing_optimization': '+22%',
-    'manual_work_reduction': '-45%',
-    'zero_trust_devices': 2000,
-    'current_employer': 'PayPal',
-    'previous_employer': 'Provenetix Consulting'
-}
-
-def career_impact():
-    return """
-    Architecting enterprise-grade network 
-    infrastructure with hybrid cloud integration,
-    Zero Trust security, and intelligent automation
-    across Fortune 500 environments.
-    """
-```
-
-</td>
-</tr>
-</table>
+**Core Competencies:**
+- 🌐 **Enterprise Networking:** BGP, OSPF, MPLS, VLANs, STP, EtherChannel, SD-WAN, Cisco IOS/NX-OS, Juniper, F5
+- ☁️ **Hybrid Cloud:** AWS VPC & Transit Gateway, Azure Virtual Networks & ExpressRoute, Site-to-Site VPN
+- 🔐 **Network Security:** Cisco ASA, Fortinet FortiGate, Palo Alto, IPSec/SSL VPN, Zero Trust, RADIUS/TACACS+
+- 🪪 **Systems & Identity:** Windows Server, Active Directory, Group Policy, Microsoft Entra ID, MFA, RBAC
+- 🤖 **Automation:** Python (Netmiko, NAPALM), Ansible, Terraform, PowerShell, Microsoft Graph API
+- 🎓 **Certifications:** Cisco Certified Network Associate (CCNA)
 
 ---
 
-## 🚀 Career Architecture Mindmap
+## 🏛️ Hybrid Network Infrastructure Expertise
 
 ```mermaid
-mindmap
-  root((AJAYKUMAR REDDY
-    Network Infrastructure
-    Engineer))
-    Enterprise Networking
-      Routing Protocols
-        BGP
-        OSPF
-        MPLS
-      Network Design
-        VLANs
-        STP
-        EtherChannel
-      Services
-        DNS
-        DHCP
-        QoS
-    Hybrid Cloud
-      AWS
-        VPC
-        Transit Gateway
-        Site to Site VPN
-      Azure
-        Virtual Networks
-        ExpressRoute
-        Hybrid Identity
-      SD WAN
-        Validation
-        Deployment
-        Optimization
-    Security Infrastructure
-      Zero Trust
-        Conditional Access
-        MFA
-        RBAC
-      Firewalls
-        Cisco ASA
-        Fortinet FortiGate
-        Palo Alto
-      VPN
-        IPSec
-        SSL
-        GRE Tunnels
-    Systems & Identity
-      Windows Server
-        Active Directory
-        Group Policy
-        Hybrid Identity
-      Microsoft Entra ID
-        User Provisioning
-        Access Management
-        Authentication
-    Automation & Observability
-      Scripting
-        Python
-        PowerShell
-        Netmiko
-        NAPALM
-      IaC
-        Ansible
-        Terraform
-        REST APIs
-      Monitoring
-        SolarWinds
-        PRTG
-        Wireshark
-        Prometheus
-        Grafana
+graph TB
+    subgraph Edge["🏢 Enterprise Sites"]
+        A1[Multi-site LAN/WAN]
+        A2[Cisco IOS/NX-OS]
+        A3[Juniper]
+        A4[Wireless LAN]
+    end
+
+    subgraph Routing["🔀 Routing & WAN"]
+        B1[BGP / OSPF]
+        B2[MPLS]
+        B3[SD-WAN]
+        B4[F5 Load Balancing]
+    end
+
+    subgraph Security["🔐 Security Layer"]
+        C1[Cisco ASA]
+        C2[Fortinet FortiGate]
+        C3[Palo Alto]
+        C4[IPSec / SSL / GRE]
+    end
+
+    subgraph Cloud["☁️ Hybrid Cloud"]
+        D1[AWS VPC]
+        D2[AWS Transit Gateway]
+        D3[Azure VNets]
+        D4[Azure ExpressRoute]
+    end
+
+    subgraph Identity["🪪 Identity & Access"]
+        E1[Active Directory]
+        E2[Microsoft Entra ID]
+        E3[Zero Trust / MFA / RBAC]
+    end
+
+    subgraph Ops["📊 Automation & Observability"]
+        F1[Python / Ansible / Terraform]
+        F2[SolarWinds / PRTG]
+        F3[Wireshark / NetFlow]
+        F4[Prometheus / Grafana]
+    end
+
+    A1 & A2 & A3 & A4 --> B1 & B2 & B3 & B4
+    B1 & B2 & B3 & B4 --> C1 & C2 & C3 & C4
+    C1 & C2 & C3 & C4 --> D1 & D2 & D3 & D4
+    E1 & E2 & E3 -.->|Secures access| C1 & D1 & D3
+    F1 & F2 & F3 & F4 -.->|Automates & monitors| B1 & C1 & D1
+
+    style Edge fill:#667eea,stroke:#764ba2,stroke-width:3px,color:#fff
+    style Routing fill:#f093fb,stroke:#f5576c,stroke-width:3px,color:#fff
+    style Security fill:#fa709a,stroke:#fee140,stroke-width:3px,color:#fff
+    style Cloud fill:#4facfe,stroke:#00f2fe,stroke-width:3px,color:#fff
+    style Identity fill:#43e97b,stroke:#38f9d7,stroke-width:3px,color:#fff
+    style Ops fill:#30cfd0,stroke:#330867,stroke-width:3px,color:#fff
 ```
 
 ---
 
-## 📊 Professional Journey Timeline
+## 💼 Professional Experience Timeline
 
 ```mermaid
 timeline
-    title Network Infrastructure Engineering Career Path
-    2019-2023 : Bachelor of Technology
-              : Computer Science
-              : JNTU Hyderabad India
-    2021-2023 : Associate Network Engineer
-              : Provenetix Consulting Services
-              : Built multi site LAN WAN infrastructure
-              : 30 plus devices 15 plus segments
-    2023-2025 : Master of Science
-              : Computer Science
-              : Lamar University Texas
-    2025-Present : Infrastructure Engineer
-                 : PayPal
-                 : Hybrid cloud networking at scale
-                 : 5000 plus users supported
-                 : Zero Trust implementation
+    title Career Journey - Network Infrastructure Engineering
+    section Education
+        Aug 2019 : B.Tech Computer Science
+                 : JNTU Hyderabad, India
+    section Provenetix Consulting
+        Jan 2021 : Associate Network Engineer
+                 : Client - Crescent Petroleum
+                 : Multi-site Cisco and Fortinet networks
+        Jul 2023 : 30+ devices and 15+ segments
+                 : 10+ hybrid network paths
+    section Graduate Studies
+        Aug 2023 : M.S. Computer Science
+                 : Lamar University, Texas
+    section Current
+        Jan 2025 : Infrastructure Engineer at PayPal
+                 : SD-WAN and hybrid cloud validation
+                 : Zero Trust across 2000+ devices
 ```
 
 ---
 
-## 💼 Development Metrics Dashboard
+## 🛠️ Technology Stack & Expertise
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Experience-4+_Years-667EEA?style=for-the-badge&labelColor=2C3E50"/>
-<br/>
-<strong>Professional Experience</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Users_Supported-5000+-1ABC9C?style=for-the-badge&labelColor=2C3E50"/>
-<br/>
-<strong>Production Scale</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/SLA_Adherence-98%25-E74C3C?style=for-the-badge&labelColor=2C3E50"/>
-<br/>
-<strong>Service Quality</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Automation-+35%25-F39C12?style=for-the-badge&labelColor=2C3E50"/>
-<br/>
-<strong>Efficiency Gains</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Devices-30+_Managed-9B59B6?style=for-the-badge&labelColor=2C3E50"/>
-<br/>
-<strong>Infrastructure Scale</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/MTTR_Reduction-30%25-3498DB?style=for-the-badge&labelColor=2C3E50"/>
-<br/>
-<strong>Incident Response</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Zero_Trust-2000+_Devices-E67E22?style=for-the-badge&labelColor=2C3E50"/>
-<br/>
-<strong>Security Posture</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/GitHub_Projects-22_Repos-58A6FF?style=for-the-badge&labelColor=2C3E50"/>
-<br/>
-<strong>Technical Portfolio</strong>
-</td>
-</tr>
-</table>
+```mermaid
+mindmap
+  root((Network
+    Infrastructure))
+    Networking
+      BGP
+      OSPF
+      MPLS
+      VLANs
+      STP
+      EtherChannel
+      NAT
+      QoS
+      IPv4 IPv6
+      SD-WAN
+      Cisco IOS NX-OS
+      Juniper
+      F5 Load Balancing
+    Security
+      Cisco ASA
+      Fortinet FortiGate
+      Palo Alto
+      IPSec SSL VPN
+      Zero Trust
+      Conditional Access
+      RADIUS TACACS+
+      Network Segmentation
+    Cloud
+      AWS
+        VPC
+        Transit Gateway
+      Azure
+        Virtual Networks
+        ExpressRoute
+      Site to Site VPN
+      Hybrid Connectivity
+    Automation IaC
+      Python
+        Netmiko
+        NAPALM
+      Ansible
+      Terraform
+      PowerShell
+      REST APIs
+      Microsoft Graph API
+      Git
+    Systems Identity
+      Windows Server
+      Active Directory
+      Group Policy
+      Microsoft Entra ID
+      Hybrid Identity
+      MFA RBAC IAM
+    Observability
+      SolarWinds
+      PRTG
+      Wireshark
+      tcpdump
+      NetFlow
+      Prometheus
+      Grafana
+    Operations
+      ServiceNow
+      ITIL v4
+      Change Management CAB
+      HLD LLD
+      Visio Lucidchart
+      Runbooks
+```
 
 ---
 
-## 👨‍💻 About Me
+## 📊 Technical Skills
 
-I am a **Network Infrastructure Engineer** with over **4 years of enterprise experience** architecting, deploying, and securing mission-critical network infrastructure across hybrid cloud environments. Currently at **PayPal**, I validate SD-WAN, firewall, and hybrid Azure/AWS network changes affecting **5,000+ users**, implement Zero Trust access controls across **2,000+ devices**, and troubleshoot escalated DNS, DHCP, VPN, and authentication issues using advanced observability tools like Wireshark, Prometheus, and Grafana.
+<div align="center">
 
-My technical foundation spans **enterprise LAN/WAN design** (BGP, OSPF, MPLS, VLANs, EtherChannel), **hybrid cloud networking** (AWS VPC, Transit Gateway, Azure Virtual Networks, ExpressRoute), **network security** (Cisco ASA, Fortinet FortiGate, Palo Alto, IPSec/SSL VPN), **systems and identity infrastructure** (Windows Server, Active Directory, Microsoft Entra ID, MFA, RBAC), and **intelligent automation** (Python, Ansible, Terraform, Netmiko, NAPALM, PowerShell).
+### **Primary Technology Stack**
 
-At **Provenetix Consulting Services**, I built and maintained multi-site LAN/WAN infrastructure on **Cisco IOS/NX-OS** across **30+ devices and 15+ network segments**, optimized BGP route policy reducing routing convergence time by **22%**, delivered hybrid connectivity across **Azure VNets/ExpressRoute and AWS VPC/Transit Gateway** for **10+ hybrid network paths**, and authored Python/Ansible automation reducing manual configuration work by **45%**. My monitoring and troubleshooting expertise with **SolarWinds, PRTG, Wireshark, and NetFlow** reduced MTTR by **30%** while maintaining **98% SLA adherence** across Tier 2/3 ServiceNow tickets.
+| **Category** | **Technologies** |
+|:------------|:----------------|
+| 🌐 **Networking** | BGP, OSPF, MPLS, VLANs, STP, EtherChannel, NAT, QoS, DNS, DHCP, IPv4/IPv6, SD-WAN, Cisco IOS/NX-OS, Juniper, F5 Load Balancing |
+| 🔐 **Security** | Cisco ASA, Fortinet FortiGate, Palo Alto, IPSec/SSL VPN, Zero Trust, Conditional Access, RADIUS/TACACS+, Network Segmentation |
+| ☁️ **Cloud** | AWS VPC, Transit Gateway, Azure Virtual Networks, ExpressRoute, Site-to-Site VPN, Hybrid Connectivity |
+| 🤖 **Automation / IaC** | Python (Netmiko, NAPALM), Ansible, Terraform, PowerShell, REST APIs, Microsoft Graph API, Git |
+| 🪪 **Systems & Identity** | Windows Server Administration, Active Directory, Group Policy (GPO), Microsoft Entra ID, Hybrid Identity, MFA, RBAC, IAM |
+| 📈 **Observability** | SolarWinds, PRTG, Wireshark, tcpdump, NetFlow, Prometheus, Grafana |
+| 📋 **Operations** | ServiceNow, ITIL v4, Change Management / CAB, HLD/LLD, Visio, Lucidchart, Runbooks |
 
-I hold a **Master of Science in Computer Science** from Lamar University, Texas, a **Bachelor of Technology in Computer Science** from JNTU Hyderabad, India, and **Cisco CCNA certification**. My approach combines deep technical expertise with business impact focus—I don't just deploy infrastructure, I architect resilient, secure, observable, and automated network ecosystems that enable business velocity while maintaining security and compliance posture.
-
-Whether designing network segmentation strategies, implementing Zero Trust access controls, optimizing hybrid cloud connectivity, or building automation workflows, I bring a **production-first mindset** with emphasis on documentation, change management (ITIL v4, CAB participation), runbook creation, and knowledge transfer to empower teams and reduce operational overhead.
+</div>
 
 ---
 
-## 🏢 Professional Experience
+## 💼 Professional Experience Deep Dive
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+### 🏢 **Infrastructure Engineer @ PayPal** | *Jan 2025 – Present* | Texas, USA
 
-### 🚀 Infrastructure Engineer
-**`PayPal • Texas, USA • Jan 2025 – Present`**
+**Hybrid Network Validation, Zero Trust & Automation:**
+- ✅ Validate **SD-WAN, firewall, and hybrid Azure/AWS** network changes with network and security teams before production rollout, including readiness checks for rollouts affecting **5,000+ users**
+- 🔍 Troubleshoot and resolve escalated **DNS, DHCP, VPN, and connectivity** issues across hybrid environments using Wireshark, Prometheus/Grafana, and system logs; eliminate recurring root causes to reduce repeat tickets
+- 🔐 Implement **Zero Trust access controls** (Entra ID Conditional Access, MFA, RBAC) across a **2,000+ device** environment to secure network and application access
+- 🪪 Investigate escalated authentication and provisioning issues across **hybrid Active Directory and Entra ID** environments, supporting Windows Server-based identity infrastructure
+- 🤖 Automate configuration reporting and compliance checks with **Ansible, PowerShell, Terraform, and Microsoft Graph API**, reducing manual work by **~35%**
+- 📐 Maintain Visio network diagrams, runbooks, and **ITIL v4** change documentation; participate in **CAB** to plan deployment windows, rollback plans, and post-implementation reviews
+- 🤝 Mentor newer team members on troubleshooting methodology and deployment workflows
 
-<img src="https://img.shields.io/badge/🔐_Zero_Trust_Security-667EEA?style=flat-square&labelColor=2C3E50"/>
-<img src="https
+**Key Technologies:** `SD-WAN` `Azure` `AWS` `Wireshark` `Prometheus` `Grafana` `Entra ID` `Active Directory` `Ansible` `PowerShell` `Terraform` `Microsoft Graph API` `ITIL v4`
+
+---
+
+### 🏢 **Associate Network Engineer @ Provenetix Consulting Services** | *Jan 2021 – Jul 2023* | India
+*Client: Crescent Petroleum*
+
+**Multi-site Enterprise Networking & Hybrid Connectivity:**
+- 🌐 Built and maintained multi-site **LAN/WAN on Cisco IOS/NX-OS** (BGP, OSPF, MPLS, VLANs, EtherChannel) across **30+ devices** and **15+ network segments**
+- ⚡ Tuned **BGP route policy and prefix filtering** for ISP peering, reducing routing convergence time by **~22%**
+- 🛡️ Configured **Cisco ASA and FortiGate** firewalls, IPSec/SSL and GRE tunnels, RADIUS/TACACS+ authentication, and F5 load balancers; supported wireless LAN design for office and branch sites
+- ☁️ Delivered hybrid connectivity across **Azure VNets/ExpressRoute and AWS VPC/Transit Gateway** for **10+ hybrid network paths**
+- 🐍 Wrote **Python (Netmiko, NAPALM), PowerShell, and Ansible** automation for configuration validation and compliance checks, reducing manual configuration work by **~45%**
+- 📊 Monitored performance with **SolarWinds, PRTG, Wireshark, and NetFlow**, reducing MTTR by **~30%**; resolved Tier 2/3 ServiceNow tickets at **98% SLA adherence**
+- 📝 Ran validation for network upgrades, hardware changes, and SD-WAN migrations; authored HLD/LLD documentation, network diagrams, runbooks, and validation reports
+
+**Key Technologies:** `Cisco IOS/NX-OS` `BGP` `OSPF` `MPLS` `Cisco ASA` `FortiGate` `F5` `Azure ExpressRoute` `AWS Transit Gateway` `Python` `Netmiko` `NAPALM` `Ansible` `SolarWinds` `PRTG` `NetFlow` `ServiceNow`
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| **Degree** | **Institution** | **Duration** |
+|:----------|:---------------|:------------:|
+| 🎓 **Master of Science in Computer Science** | Lamar University, Beaumont, Texas | Aug 2023 – May 2025 |
+| 🎓 **Bachelor of Technology in Computer Science** | Jawaharlal Nehru Technological University Hyderabad, India | Aug 2019 – May 2023 |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+[![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.linkedin.com/in/ajaykumar-networkengineer/)
+[![Coursera](https://img.shields.io/badge/Coursera-Network_Automation_with_Python-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.linkedin.com/in/ajaykumar-networkengineer/)
+[![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-Windows_Server_Administration_Fundamentals-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajaykumar-networkengineer/)
+
+</div>
+
+- 🏅 **Cisco Certified Network Associate (CCNA)**
+- 🏅 **Network Automation with Python** — Coursera
+- 🏅 **Windows Server Administration Fundamentals** — LinkedIn Learning
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+📍 **Texas, USA** &nbsp;|&nbsp; 📧 [dajaykumarnetworkeng@gmail.com](mailto:dajaykumarnetworkeng@gmail.com) &nbsp;|&nbsp; 📱 [+1 (469) 268-2398](tel:+14692682398)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ajaykumar--networkengineer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajaykumar-networkengineer/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://applywizz-ajaykumarreddydevarapalli-26257.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-AjayReddy999-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AjayReddy999)
+
+<img src="assets/footer.png" alt="" width="100%" />
+
+</div>
